@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repository has moved to [lesiw.io/tools/analyzers/timeafter](https://github.com/lesiw/tools/tree/main/analyzers/timeafter).
+
 # lesiw.io/timeafter
 
 [![Go Reference](https://pkg.go.dev/badge/lesiw.io/timeafter.svg)](https://pkg.go.dev/lesiw.io/timeafter)
